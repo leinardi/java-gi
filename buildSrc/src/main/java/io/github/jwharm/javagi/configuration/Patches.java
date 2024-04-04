@@ -38,6 +38,7 @@ public class Patches {
             new GtkPatch(),
             new HarfBuzzPatch(),
             new PangoPatch(),
+            new SpicePatch(),
             new SoupPatch(),
             new WebKitPatch()
     );
